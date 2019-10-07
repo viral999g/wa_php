@@ -98,12 +98,13 @@ function send_users($CH){
   while(!feof($file)) {
     $line = fgets($file);
     $profile_data = json_decode(str_replace("\n", "", $line));
-    array_push($users, $profile_data);
-
+    if($profile_data != NULL){
+      array_push($users, $profile_data);
+    }
   }
 
-  // $response = json_encode(array("type" => "get_users", "data"=> $users));
-  return "Hello";
+  $response = json_encode(array("type" => "get_users", "data"=> $users));
+  return $response;
 }
 
 $clientSocketArray = array($socketResource);
@@ -145,7 +146,7 @@ while (true) {
         $checking_url = $request[1];
         $CLIENT_INSTANCES['main'] = $chatHandler;
         $response = send_users($chatHandler);
-        $connectionACK2 = $chatHandler->sendMessage($client_ip_address, );    
+        $connectionACK2 = $chatHandler->sendMessage($client_ip_address, $response);    
         $chatHandler->send($connectionACK2);
       }
       
