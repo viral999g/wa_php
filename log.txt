@@ -1,0 +1,649 @@
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1222
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: null
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: o+MUFwbZr0LUZCpMVSmVuw==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+Data from client:HIiiServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1222
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: null
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: 6TJhshiJn2MzpirIMroo1w==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+Data from client:HelloServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1222
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: null
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: 1kjH4pJ6isQj933UqlNxyw==
+Connection: keep-alive, Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+Data from client:HiServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: CAzhUnhSwk+o8lS+PrL1Iw==
+Sec-WebSocket-Version: 13
+
+Data from client:["create_profile", "www.whatsapp.com", "1", "1"]Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: 70WxHzDcX/Wbhs2zpvpEOg==
+Sec-WebSocket-Version: 13
+
+Data from client:["create_profile", "www.whatsapp.com", "1", "1"]Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: 62py/+ZYvNxxNWHGPcB4Yw==
+Sec-WebSocket-Version: 13
+
+Data from client:["create_profile", "www.whatsapp.com", "1", "1"]Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: ysAFbK6SBkaDzMqn7iAYqw==
+Sec-WebSocket-Version: 13
+
+Data from client:["create_profile", "www.whatsapp.com", "1", "1"]Server started on 127.0.0.1 : 1222
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: G91KwcedP2bUrBNnKks3Cg==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: /debVBvzIaqSR6DZa1qhpQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: bxbz8qFCJuPI1R6kaZ+NIQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: 5ntgdrMmyJ8J6KZf/Vvvzw==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: qrZ71ZL6Oiu6WkmVSoDazQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: vIzBwPw8S/vfv/dod4TbxA==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: QjqJTxS/WESt3V7QoiyhsA==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: vSy4AiNT+OlI1i9+T8O43A==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: DMteGtWXum9ng0nQm6TsKw==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: zxmfje6cmQODf7SujaaENQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: RjooH+ozr5uiBguQtEzPvg==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: EOZq6iemeMPdvz3iy4SPyg==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: J7Yi52rJp/gmTk6HDXpAsw==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: gw3NFO7Z9OX+chssnOxe4w==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: p0pQzYEK/ofYXqLFKFw42w==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: rKx7hXOP4jZKixVf2M4smA==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: gxZC3t0aS51Ij8Shz/gA2g==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: kJ+jzVl5/cFK8rhjK8GQmw==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: +mSIcSFzhD2bBLL+dgYcsQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: fHJpfUYnN1bSiRmBrxecvA==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: mSHD5iP5rkX9/1itroEiKA==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: HZZJfkssclyoaz2tPfc/uQ==
+Sec-WebSocket-Version: 13
+
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: RI7AP4/ua7YX945OZvZmpw==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: mY59A5Fw7tJyxRs/gc6txQ==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: WvCfp2A+bO7O3AFP2V0CCQ==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: uQATNiOc0HWIfNzqrGp2eg==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: UzW7J5moM7NMPm8fc8ZUvQ==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: AQquKCjfODchg4gZxCf2OA==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: ZMKNNzOaD1e8O1DJpHUeCw==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: s2CRGJ0ANuc4xokKh/fEqQ==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: jFRTFQ2Hlan1wJNhAm+Vpw==
+Sec-WebSocket-Version: 13
+
+socket_create() failed: Successsocket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: localhost:1222
+Origin: http://localhost:1222
+Sec-WebSocket-Key: GhNN1tur0CNTmt3ORv4okg==
+Sec-WebSocket-Version: 13
+
+socket_bind() failed: Successsocket_listen() failed: SuccessServer started on 127.0.0.1 : 1222
+
